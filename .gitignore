@@ -1,0 +1,31 @@
+# Ignorar o ambiente virtual
+image-based-recommendation/
+
+# Ignorar arquivos temporários do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar logs e arquivos temporários
+*.log
+*.sqlite3
+
+# Ignorar arquivos de dependências criados automaticamente
+venv/
+.env/
+*.env
+.DS_Store
+
+# Ignorar configurações de IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Ignorar arquivos de pacotes
+*.egg-info/
+dist/
+build/
