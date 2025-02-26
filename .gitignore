@@ -2,7 +2,7 @@
 ml_env
 
 # Ignorar arquivos temporários do Jupyter
-.ipynb_checkpoints/
+.ipynb_checkpoints
 
 # Ignorar cache do Python
 __pycache__/
