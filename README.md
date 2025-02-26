@@ -74,5 +74,6 @@ Sinta-se à vontade para abrir issues ou pull requests para melhorias no projeto
 🔹 **Autor:** Rafael Oliveira Lopes  
 🔹 **Email:** rafaellopes.dev@email.com  
 🔹 **LinkedIn:** [LinkedIn]([https://github.com/seu-usuario](https://www.linkedin.com/in/rafael-lopes-desenvolvedor-fullstack/))
-🔹 **Site:** [Meu site]([https://www.rafaellopes.dev/]))  
+
+🔹 **Site:** [Meu site]([https://rafaellopes.dev)) 
 
